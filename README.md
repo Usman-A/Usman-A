@@ -6,12 +6,12 @@ My name is Usman Asad and I am a Computer Science student at McMaster University
 
 ### 💬 Ask me about
 * Projects that I have worked on
-* Student Life at McMaster University
-* Anything about cars!
-* My thoughts on new tech
+* Student Life at McMaster University 📚 
+* Anything about cars! 🏎️ 
+* My thoughts on new tech 💻
 * Computer Science
 
-<img height="50" src="https://github.com/Usman-A/Usman-A/blob/master/assets/GIFS/coding.gif">
+<img height="125" src="https://github.com/Usman-A/Usman-A/blob/master/assets/GIFS/coding.gif">
 
 If you have any questions or would like to speak to me, don't hesitate to contact me!
 

@@ -11,10 +11,9 @@ My name is Usman Asad and I am a Computer Science student at McMaster University
 * My thoughts on new tech
 * Computer Science
 
-![Alt Text](https://github.com/Usman-A/Usman-A/blob/master/assets/GIFS/coding.gif)
+<img height="50" src="https://github.com/Usman-A/Usman-A/blob/master/assets/GIFS/coding.gif">
 
 If you have any questions or would like to speak to me, don't hesitate to contact me!
-
 
 ### 📫 You can reach me at 
 

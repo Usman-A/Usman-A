@@ -17,7 +17,7 @@ If you have any questions or would like to speak to me, don't hesitate to contac
 
 ### 📫 You can reach me at 
 
-<div>
+<div style="display:flex; align-items:center; flex-direction:row">
 <a href="https://www.linkedin.com/in/usman-asad/"><img height="50" src="./assets/GIFS/linkedIn.gif"></a>
 <a href="mailto:asadu@mcmaster.ca"> <img height="50" src="./assets/GIFS/email.gif"></a>
 </div>
